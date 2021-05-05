@@ -1,0 +1,18 @@
+body {
+    background-color: steelblue;
+}
+
+div {
+    background-color: steelblue;
+    padding: 1rem;
+    border: 4px groove gray;
+}
+
+p {
+    background-color: lightblue;
+    color: midnightblue;
+    text-align: center;
+    font-family: monospace;
+    font-size: 1rem;
+    padding: 1rem;
+}
