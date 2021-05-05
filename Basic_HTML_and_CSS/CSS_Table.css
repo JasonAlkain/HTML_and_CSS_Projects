@@ -28,3 +28,13 @@ table {
 table:hover {
     border: 4px groove lightblue;
 }
+
+td {
+    padding: 1rem;
+    border: 4px groove midnightblue;
+}
+
+td:hover {
+    color: lightgreen;
+    border: 4px groove lightblue;
+}
