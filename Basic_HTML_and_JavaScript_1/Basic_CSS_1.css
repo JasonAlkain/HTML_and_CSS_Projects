@@ -21,10 +21,12 @@ p {
     background-color: black;
     color: yellow;
     font-size: large;
+    padding: 1rem;
 }
 
 .font_2 {
     background-color: darkblue;
     color: white;
     font-size: medium;
+    padding: 1rem;
 }
