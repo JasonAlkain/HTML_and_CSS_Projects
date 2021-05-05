@@ -15,3 +15,15 @@ p {
     font-size: 1rem;
     padding: 1rem;
 }
+
+.font_1 {
+    background-color: black;
+    color: yellow;
+    font-size: large;
+}
+
+.font_2 {
+    background-color: darkblue;
+    color: white;
+    font-size: medium;
+}
