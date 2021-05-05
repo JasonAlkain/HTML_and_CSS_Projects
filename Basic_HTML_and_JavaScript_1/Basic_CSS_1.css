@@ -22,6 +22,7 @@ p {
     color: yellow;
     font-size: large;
     padding: 1rem;
+    margin: auto;
 }
 
 .font_2 {
@@ -29,4 +30,14 @@ p {
     color: white;
     font-size: medium;
     padding: 1rem;
+    margin: auto;
+}
+
+.centerText {
+    background-color: midnightblue;
+    color: white;
+    font-size: large;
+    padding: 2rem;
+    margin: auto;
+    text-align: center;
 }
