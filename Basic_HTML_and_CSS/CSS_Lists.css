@@ -18,21 +18,23 @@ p {
 }
 
 ol {
-    background-color: midnightblue;
-    color: lightsteelblue;
+    background-color: deepskyblue;
+    color: blue;
     border: 4px groove blue;
     padding: 2rem;
     margin: auto;
     list-style-type: upper-alpha;
+    text-shadow: 1px 1px dimgray;
 }
 
 ul {
-    background-color: midnightblue;
-    color: lightsteelblue;
+    background-color: deepskyblue;
+    color: blue;
     border: 4px groove blue;
     padding: 2rem;
     margin: auto;
     list-style-type: circle;
+    text-shadow: 1px 1px dimgray;
 }
 
 li:hover {
