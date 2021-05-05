@@ -5,6 +5,7 @@ body {
 div {
     background-color: lightsteelblue;
     padding: 1rem;
+    border: 4px groove gray;
 }
 
 p {
