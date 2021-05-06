@@ -1,0 +1,113 @@
+body {
+    margin: auto;
+    padding: 10px;
+    background-color: slategray;
+}
+
+h1 {
+    margin: auto;
+}
+
+h2 {
+    margin: auto;
+}
+
+div {
+    margin: auto;
+}
+
+section {
+    margin: auto;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+
+p {
+    margin: auto;
+    background-color: lightblue;
+    color: midnightblue;
+    text-align: center;
+    font-family: monospace;
+    font-size: 1rem;
+    padding: 1rem;
+}
+
+.area {
+    background-color: steelblue;
+    margin: auto;
+    padding: 2rem;
+    border: 4px groove gray;
+}
+
+.content {
+    border-top: 4px double gray;
+    color: lightblue;
+    background-color: midnightblue;
+    text-align: center;
+    font-family: monospace;
+    font-size: 1rem;
+    padding: 1rem;
+}
+
+article {
+    border: 7px outset lightgray;
+    padding: 1rem;
+}
+
+article:hover {
+    border: 7px ridge gray;
+}
+
+details {
+    display: block;
+    border: 3px outset lightgray;
+    padding: 1rem;
+}
+
+details:hover {
+    border: 3px inset gray;
+    cursor: pointer;
+}
+
+[open]>summary {
+    background: purple;
+    color: lightcyan;
+}
+
+summary:after {
+    color: #eee;
+    font-size: 0.5em;
+    margin-right: 0.5em;
+}
+
+
+/*
+summary {
+    position: relative;
+    margin-top: 0.25em;
+    color: #99e;
+    padding: 0.1em 0.5em 0.2em;
+    background-color: #444;
+}
+
+summary:before {
+    color: #eee;
+    font-size: 0.5em;
+    margin-right: 0.5em;
+}
+
+summary:after {
+    color: #eee;
+    font-size: 0.5em;
+    margin-right: 0.5em;
+}
+
+[open]>summary {
+    background: #66e;
+    color: #eee;
+}
+*/
+
+time {
+    color: black;
+}
